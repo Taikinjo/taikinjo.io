@@ -1,2 +1,2 @@
 # taikinjo.io
-Main Portfolion
+Main Portfolio
